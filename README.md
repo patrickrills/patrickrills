@@ -21,7 +21,9 @@ In my spare time, I create my own iOS apps under the banner of [Big Blue Fly](ht
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <picture>
-    <img width="300" alt="Big Blue Fly Logo" src="http://www.bigbluefly.com/Images/bigbluefly-logo-wordmark-stacked.svg">
-  </picture>
+  <a href="http://www.bigbluefly.com/">
+    <picture>
+      <img width="300" alt="Big Blue Fly Logo" src="http://www.bigbluefly.com/Images/bigbluefly-logo-wordmark-stacked.svg">
+    </picture>
+  </a>
 </p>
